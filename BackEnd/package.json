@@ -2,11 +2,10 @@
   "name": "note-app-v1-backend",
   "version": "1.0.0",
   "description": "its a version-1 note app",
-  "main": "index.js",
+  "main": "serverjs",
   "scripts": {
-    "start" : "node server.js",
-    "install-server" : "npm install"
-
+    "start": "node server.js",
+    "install-server": "npm install"
   },
   "author": "",
   "license": "ISC",
